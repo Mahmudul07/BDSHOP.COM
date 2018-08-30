@@ -1,0 +1,15 @@
+Database Name : db_shop
+
+  1. Admin Login
+
+       user : admin
+       email : mahmudul@bdshop.com
+       Pass : bingo5
+
+
+  2. Customer Login
+
+       email : mahmudul@bdshop.com
+       pass  : bongo5
+
+
